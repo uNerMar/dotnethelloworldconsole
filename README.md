@@ -1,4 +1,4 @@
-# dotnethelloworldconsole
+# dotnethelloworldconsole 
 
 
 ## install dot net 
@@ -30,5 +30,6 @@ output to console for e.g.
 Hello KLOWN World!
 3
 
-
+### references
+https://guides.github.com/features/mastering-markdown/
 
